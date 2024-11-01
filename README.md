@@ -1,2 +1,2 @@
 ### math_complex_algorithm
-There are "Numerical method" subject's codes depend on higher math.
+I would like to share my solutions in Python programming for some complex examples from the subject of Numerical Methods.
